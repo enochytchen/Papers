@@ -355,36 +355,85 @@ display: none;
 <div id="about" class="section level1">
 <h1>About</h1>
 <p>In this repository, I classify, annotate, and document my thoughts on
-papers I read. I learned this organization from Fredrik K. Gustafsson
-<span class="citation">@fregu856</span>.</p>
+papers I read. I learned this organization from Fredrik K. Gustafsson<a href="https://github.com/fregu856"><span class="citation">@fregu856</span></a>.</p>
 <div id="bookmarks" class="section level2">
 <h2>Bookmarks</h2>
-<div id="books" class="section level4">
-<h4>Books</h4>
-[Books, Biostatistics] [Books, Health Economics] [Books, Epidemiology]
-</div>
-</div>
-<div id="biostatistics" class="section level4">
-<h4>Biostatistics</h4>
-<a href="#biostatistics">Biostatistics</a> [Flexible parametric models]
-[Multistate models] [Cure modeling] [Microsimulation] [PIAMOD/MIAMOD]
-[Clinical trials] [Software packages] #### Epidemiology [Epidemiology]
-[Causal inference] [Regression standardization]
-</div>
-</div>
-<div id="health-economics" class="section level4">
-<h4>Health Economics</h4>
-<a href="#health-economics">Health economics</a> [HTA guidelines]
-[Health economic modelling] [Survival Extrapolation] [Health state
-values] [Economic burden of disease] [Swedish healthcare costs]
-</div>
-</div>
-<div id="chronic-myeloid-leukemia" class="section level4">
-<h4>Chronic Myeloid Leukemia</h4>
-[CML] [CML, treatment] [CML, TKI discontinuation] [CML, health
-economics]
-</div>
-</div>
+<table>
+<colgroup>
+<col width="19%" />
+<col width="19%" />
+<col width="19%" />
+<col width="21%" />
+<col width="21%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Books</strong></th>
+<th><strong>Biostatistics</strong></th>
+<th><strong>Epidemiology</strong></th>
+<th><strong>Health Economics</strong></th>
+<th><strong>Chronic Myeloid Leukemia</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>[Books, Biostatistics]</td>
+<td>[Biostatistics]</td>
+<td>[Epidemiology]</td>
+<td>[Health economics]</td>
+<td>[CML]</td>
+</tr>
+<tr class="even">
+<td>[Books, Health Economics]</td>
+<td>[Flexible parametric models]</td>
+<td>[Causal inference]</td>
+<td>[HTA guidelines]</td>
+<td>[CML, treatment]</td>
+</tr>
+<tr class="odd">
+<td>[Books, Epidemiology]</td>
+<td>[Multistate models]</td>
+<td>[Regression standardization]</td>
+<td>[Health economic modelling]</td>
+<td>[CML, TKI discontinuation]</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>[Cure modeling]</td>
+<td></td>
+<td>[Survival Extrapolation]</td>
+<td>[CML, health economics]</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>[Microsimulation]</td>
+<td></td>
+<td>[Health state values]</td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>[PIAMOD/MIAMOD]</td>
+<td></td>
+<td>[Economic burden of disease]</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>[Clinical trials]</td>
+<td></td>
+<td>[Swedish healthcare costs]</td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>[Software packages]</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 </div>
 <div id="papers" class="section level2">
 <h2>Papers</h2>
@@ -396,7 +445,7 @@ Decision Making in Oncology: Where Are We Now? <a href="https://doi.org/10.1016/
 <li>Woods2020</li>
 <li><code>Value in Health</code></li>
 <li>[Multistate models]
-<div style="max-width:100%; word-wrap:break-word;">
+<div style="max-width:100%; word-wrap:break-word; border:1px solid #ccc; padding:10px; border-radius:5px; background-color:#f9f9f9;">
 <p>Well-writen paper about the relationship between partitioned survival
 models vs. state-transition models. Figure 1 is informative and
 pedagogical.</p>
@@ -409,9 +458,19 @@ pedagogical.</p>
 <li>Extrapolating clinical evidence within economic evaluations. <a href="https://www.cda-amc.ca/sites/default/files/attachments/2023-05/MH0011-Extrapolating%20Clinical%20Evidence%20Within%20Economic%20Evaluations_0.pdf">[doi]</a><a href>[annotated pdf]</a></li>
 <li>Coyle2023</li>
 <li><code>Canadian Journal of Health Technologies</code></li>
-<li>[HTA Guidelines]</li>
+<li>[HTA Guidelines]
+<div style="max-width:100%; word-wrap:break-word; border:1px solid #ccc; padding:10px; border-radius:5px; background-color:#f9f9f9;">
+<p>Mark and I discussed this guideline. It has various recommendation on
+health economics modelling practices. Recommendation 9–CADTH guidance
+says, “A partition survival model structure is not recommended as it
+relies on an assumption of independence between curves.” We are
+wondering whether this statement is true or not. What is the difference
+between using a partitioned survival vs. an illness-death model. This
+might be an interesting topic to explore further to compare 1) K-M ; 2)
+; 3) Partitioned survival</p>
+</div></li>
 </ul>
-<pre><code>Mark and I discussed this guideline. It has various recommendation on health economics modelling practices. Recommendation 9--CADTH guidance says, &quot;A partition survival model structure is not recommended as it relies on an assumption of independence between curves.&quot; We are wondering whether this statement is true or not. What is the difference between using a partitioned survival vs. an illness-death model. This might be an interesting topic to explore further to compare 1) K-M ; 2) ; 3) Partitioned survival</code></pre>
+<p>```</p>
 </div>
 </div>
 </div>
