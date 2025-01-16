@@ -29,14 +29,12 @@ The treatment goals for CML have evolved from focusing on survival to molecular 
 - Hochhaus2020[[doi]](https://doi.org/10.1038/s41375-020-0776-2)
 - `Leukemia`
 - [CML]
-<div style="max-width:100%; word-wrap:break-word;">
-ELN2020 recommendations. 
-- MMR: BCR-ABL1 ≤ 0.1% IS. MR4: BCR-ABL1 ≤ 0.01% IS. MR4.5: BCR-ABL1 ≤ 0.0032% IS. MR5: BCR-ABL1 ≤ 0.001% IS. Whatever below MR4 is DMR.
-- Generic IMA is the most cost-effective initial treatment.
-- 80% of CML patients won't achieve a TFR.
-- 80% of CML patients who achieve a TFR will have recurrences within 6-8 months; hence, require frequent monitoring
-- Some patients who are eligible for TFR may not want to discontinue TKI treatment.
-</div>
+* ELN2020 recommendations. 
+* MMR: BCR-ABL1 ≤ 0.1% IS. MR4: BCR-ABL1 ≤ 0.01% IS. MR4.5: BCR-ABL1 ≤ 0.0032% IS. MR5: BCR-ABL1 ≤ 0.001% IS. Whatever below MR4 is DMR.
+* Generic IMA is the most cost-effective initial treatment.
+* 80% of CML patients won't achieve a TFR.
+* 80% of CML patients who achieve a TFR will have recurrences within 6-8 months; hence, require frequent monitoring
+* Some patients who are eligible for TFR may not want to discontinue TKI treatment.
 
 ##### [24-12-03][paper3]
 - Estimation and projections of cancer prevalence from cancer registry data
