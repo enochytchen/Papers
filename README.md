@@ -15,6 +15,53 @@ In this repository, I classify, annotate, and document my thoughts on papers I r
 |                               | [Software packages]           |                               |                                   |                                   |
 
 ## Papers
+##### [25-Mar-10][paper9]
+- Living, not just surviving, with chronic myeloid leukemia – quality of life to the front of the line
+- Lipton2025
+- `Leukemia`[[doi]](https://doi.org/10.1038/s41375-025-02548-z)
+- [CML]
+<div style="max-width:100%; word-wrap:break-word;">
+This paper highlighted that the goal for treating CML patients is not just the restoration of normal life expectancy but also the restoration of various aspects of the patient's life. 
+One thing clinicians could do is to have better communication with patients. The authors cited, “And in the end, it's not the years in your life that count. It's the life in your years.” - Abraham Lincoln
+</div>
+
+##### [25-Feb-20][paper8]
+- European LeukemiaNet laboratory recommendations for the diagnosis and management of chronic myeloid leukemia
+- Cross2023
+- `Leukemia`[[doi]](https://doi.org/10.1038/s41375-023-02048-y)
+- [CML]
+<div style="max-width:100%; word-wrap:break-word;">
+This paper gives an introduction to CML focused more on the moelcular aspects of the disease.
+"Chronic myeloid leukemia (CML) is characterized by the Philadelphia (Ph) chromosome, 
+described in 1960 as the first recurrent chromosome abnormality associated with a human malignancy [1]. 
+The Ph chromosome, or more correctly the der22,t(9;22)(q34;q11), is the smaller derivative of a somatically 
+acquired reciprocal translocation between chromosomes 9 and 22 [2], 
+which leads to fusion of the Breakpoint Cluster Region (BCR) gene at 22q11 and the Abelson Proto-oncogene 1 Nonreceptor Tyrosine Kinase (ABL1) gene at 9q34 [3]. 
+The resulting BCR::ABL1 fusion, located on the Ph chromosome, encodes a chimeric BCR::ABL1 protein with deregulated tyrosine kinase activity 
+that is the primary driver of the pathogenesis of CML."
+</div>
+
+##### [25-Feb-20][paper7]
+- Chronic myeloid leukaemia: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up
+- Hochhaus2017 
+- `Annals of Oncology`[[doi]](10.1093/annonc/mdx219)
+- [CML]
+<div style="max-width:100%; word-wrap:break-word;">
+ESMO guidelines (2017) recommended frequent molecular monitoring for patients with CML. 
+Time since TKI discontinuation: Month 1-6 monthly molecular monitoring, Month 7-12 every 6 weeks, Month 13+ every 3 months.
+</div>
+
+##### [25-01-17][paper6]
+- Finding the health-care expenditure that drives variation in cancer survival
+- Rutherford2024
+- `The Lancet Oncology`[[doi]](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(24)00187-6/fulltext)
+-[Health economics]
+<div style="max-width:100%; word-wrap:break-word;">
+Rutherford M. commented that it might not be optimal to correlate total national health expenditure with cancer survival. (Sant et al.'s work, a part of EURO-CARE6, on linking survival of patients with lymphoid neoplasms with health expenditure. Understanding the determinants of survival
+differences is important, e.g., stage at diagnosis, late diagnosis, etc.
+</div>
+
+
 ##### [25-01-16][paper5]
 - European LeukemiaNet laboratory recommendations for the diagnosis and management of chronic myeloid leukemia
 - Cross2023[[doi]](https://doi.org/10.1038/s41375-023-02048-y)
